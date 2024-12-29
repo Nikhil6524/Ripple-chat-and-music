@@ -150,5 +150,5 @@ Special thanks to the open-source community for providing tools and libraries th
 ## 📞 Contact
 
 For any inquiries, feel free to contact:
-- **Author**: [Your Name](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Author**: [V R N S NIKHIL](https://github.com/Nikhil6524)
+- **Email**: bl.en.u4aie22062@bl.students.amrita.edu
